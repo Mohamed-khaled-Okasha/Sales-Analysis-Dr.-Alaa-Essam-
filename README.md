@@ -60,12 +60,10 @@ This project was developed as part of the **Ramadan Data Analysis Competition** 
 
 ## Deliverables  
 - **Power BI Dashboard:** Interactive visuals showcasing revenue trends, segment performance, and regional analysis.  
-  [Watch the Dashboard Walkthrough Video](link-to-video)  
+  [[Watch the Dashboard Walkthrough Video](link-to-video)](https://github.com/Mohamed-khaled-Okasha/Sales-Analysis-Dr.-Alaa-Essam-/blob/main/Dashboard%20Video.mp4)  
 - **Presentation:** Summarizes the analysis, insights, and recommendations.  
-  [Watch the Presentation Video](link-to-video)  
-- **Merged Video:** Combined dashboard and presentation videos for a complete overview.  
-  [Watch the Merged Video](link-to-video)
-
+  [[Watch the Presentation Video](link-to-video)](https://github.com/Mohamed-khaled-Okasha/Sales-Analysis-Dr.-Alaa-Essam-/blob/main/presentation%20video.mp4)
+  
 ## How to Use  
 1. Clone the repository:  
    ```bash  
