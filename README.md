@@ -69,7 +69,7 @@ This project was developed as part of the **Ramadan Data Analysis Competition** 
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/sales-data-analysis.git  
+   [git clone https://github.com/your-username/sales-data-analysis.git  ](https://github.com/Mohamed-khaled-Okasha/Sales-Analysis-Dr.-Alaa-Essam-)
    ```  
 2. Open the `.pbix` file in Power BI Desktop to explore the dashboard.  
 3. Watch the videos for a detailed walkthrough of the analysis and findings.
